@@ -11,11 +11,11 @@ Types of Villains - Corrupt Mercenaries.
 
 "Merryweather Security Consulting is a private military company and security contractor, Merryweather is a private security agency."
 
-Divisions - Leader
+Divisions - Leader,
                     Commander
-                    Captain
-                    Hunter
-                    Rookie
+                   , Captain
+                   , Hunter
+                   , Rookie
 
 Businesses -
 MerryWeather Security has its expertise in Private Security, Couriership, Assassination & Escorts.

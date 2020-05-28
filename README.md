@@ -21,7 +21,7 @@ This resource for ESX adds merryweather armories, vehicle garages and ability fo
 * ESX Service Support
   * [esx_service](https://github.com/ESX-Org/esx_service)
 
-
+Note :- This Script Is A Remake From Esx_Policejob
 
 ## Installation
 - Import `esx_job.sql` in your database

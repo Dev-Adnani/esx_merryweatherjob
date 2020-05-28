@@ -1,6 +1,6 @@
-# esx_policejob
+# esx_merryweather
 
-This resource for ESX adds police armories, vehicle garages and ability for cops to search, handcuff people and much more.
+This resource for ESX adds merryweather armories, vehicle garages and ability for cops to search, handcuff people and much more.
 
 ### Requirements
 * Auto mode
@@ -21,30 +21,14 @@ This resource for ESX adds police armories, vehicle garages and ability for cops
 * ESX Service Support
   * [esx_service](https://github.com/ESX-Org/esx_service)
 
-## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_policejob
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_policejob [esx]/esx_policejob
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_policejob/archive/master.zip
-- Put it in the `[esx]` directory
 
 
 ## Installation
-- Import `esx_policejob.sql` in your database
+- Import `esx_job.sql` in your database
 - Add this to your server.cfg:
 
 ```
-start esx_policejob
+start esx_merryweather
 ```
 
 -  * If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
@@ -54,9 +38,9 @@ start esx_policejob
 
 # Legal
 ### License
-esx_policejob - police script for ESX
+esx_merryweatherjob - merryweather script for ESX
 
-Copyright (C) 2015-2020 Jérémie N'gadi
+Copyright (C) 2015-2020 Dev Adnani
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 

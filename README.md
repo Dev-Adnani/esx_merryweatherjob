@@ -31,7 +31,7 @@ MerryWeather Mesa Heavily modified can is capable of off-road cruising. It is th
 
 # esx_merryweather
 
-This resource for ESX adds merryweather armories, vehicle garages and ability for cops to search, handcuff people and much more.
+This resource for ESX adds merryweather armories, vehicle garages and ability to search, handcuff people and much more.
 
 ### Requirements
 * Auto mode
